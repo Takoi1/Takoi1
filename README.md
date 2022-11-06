@@ -1,5 +1,5 @@
- 👋 Hey Welcome to my profile! 
-🌱 I'm Takoi , a motivated Junior web developer who is interested in MERN STACK and WordPress.
+ -👋 Hey Welcome to my profile! 
+-🌱 I'm Takoi , a motivated Junior web developer who is interested in MERN STACK and WordPress.
 
 <!---
 Takoi1/Takoi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
