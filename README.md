@@ -1,4 +1,4 @@
- -👋 Hey Welcome to my profile! 
+ -👋 Hey Welcome to my profile! </br> 
 -🌱 I'm Takoi , a motivated Junior web developer who is interested in MERN STACK and WordPress.
 
 <!---
