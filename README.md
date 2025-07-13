@@ -1,5 +1,5 @@
  -👋 Hey Welcome to my profile! </br> 
--🌱 I'm Takoi ,  QA Engineer with a strong background in Full stack web development 
+-🌱 I'm Takoi ,  QA Engineer with a strong background in Full stack web development  </br> 
 🧪 Passionate about testing — manual, automation (Cypress, Selenium)
 
 
