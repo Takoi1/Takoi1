@@ -1,5 +1,7 @@
  -👋 Hey Welcome to my profile! </br> 
--🌱 I'm Takoi , a motivated Junior web developer who is interested in MEA/RN STACK and WordPress.
+-🌱 I'm Takoi ,  QA Engineer with a strong background in Full stack web development 
+🧪 Passionate about testing — manual, automation (Cypress, Selenium)
+
 
 <!---
 Takoi1/Takoi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
